@@ -1,0 +1,7 @@
+[input]
+# Default value: "ts/index.ts"
+index_file = "ts/testing.ts"
+
+[output]
+# Default value: "output"
+#directory = "output"

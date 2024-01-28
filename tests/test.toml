@@ -1,0 +1,3 @@
+args = ["--help"]
+bin.name = "wasm_autogen"
+stderr-to-stdout = true
